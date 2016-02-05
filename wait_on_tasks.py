@@ -1,4 +1,3 @@
-from engine import celery
 from waiting_on_tasks import tasks
 from subprocess import Popen
 from celery import chord
